@@ -1,0 +1,2 @@
+# Requires: abstract-recursion
+# (Not available on PyPI)
